@@ -10,6 +10,8 @@ public class MainLafore {
         arr.delete(0);
         arr.showArray();
 
+        char a = '\u1002';
+        System.out.println(a);
 
     }
 }
